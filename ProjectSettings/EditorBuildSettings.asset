@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_HexaSort/Scenes/HomeMenuScene.unity
+    guid: 0f38f42298142fd4a8dec69ea5228904
+  - enabled: 1
+    path: Assets/_HexaSort/Scenes/MainScene.unity
+    guid: 3a73cd5a15897404ba485062f07a2e17
+  m_configObjects: {}
